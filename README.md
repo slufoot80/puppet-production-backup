@@ -1,5 +1,5 @@
 # puppet-production-backup
-puppet production backup before roles and profiles
+This course is designed for those who are seeking a career in DevOps by preparing you for the System Administration Using Puppet
 
 
 Installing and Configuring Puppet
